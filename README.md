@@ -1,6 +1,8 @@
 Combinations and Permutations
 =============================
 
+[![Build Status](https://dev.azure.com/robertfpickering/robertfpickering/_apis/build/status/robertpi.CombPerm?branchName=master)](https://dev.azure.com/robertfpickering/robertfpickering/_build/latest?definitionId=2&branchName=master)
+
 Just the permutations for now.
 
 At the core of this permutations library is the ablity to
