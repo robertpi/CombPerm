@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29609.76
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CombPerm", "src\CombPerm\CombPerm.csproj", "{1DB0709C-0A66-47CD-95DD-6DE8275B9E8B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CombPerm.Tests", "tests\CombPerm.Tests\CombPerm.Tests.csproj", "{86C402C9-A6B5-4A47-AC5B-3024E9BB8E7F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1DB0709C-0A66-47CD-95DD-6DE8275B9E8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DB0709C-0A66-47CD-95DD-6DE8275B9E8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DB0709C-0A66-47CD-95DD-6DE8275B9E8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DB0709C-0A66-47CD-95DD-6DE8275B9E8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86C402C9-A6B5-4A47-AC5B-3024E9BB8E7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86C402C9-A6B5-4A47-AC5B-3024E9BB8E7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86C402C9-A6B5-4A47-AC5B-3024E9BB8E7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86C402C9-A6B5-4A47-AC5B-3024E9BB8E7F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C997BD36-7442-4302-8C54-267F650CB315}
+	EndGlobalSection
+EndGlobal
