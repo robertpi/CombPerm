@@ -32,5 +32,5 @@ steps:
   inputs:
     command: 'push'
     packagesToPush: '$(Build.ArtifactStagingDirectory)/*.nupkg'
-    nuGetFeedType: 'internal'
-    publishVstsFeed: 'a3cd7e2f-7c8d-4792-93be-c66326ca6b6f'
+    nuGetFeedType: 'external'
+    publishFeedCredentials: 'nuget.org'
